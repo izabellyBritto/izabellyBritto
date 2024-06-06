@@ -44,7 +44,7 @@
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
-</div>
+    </div>
 <br>
 
 ---
@@ -62,6 +62,7 @@
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="border-radius: 50%; cursor: pointer; margin-right: 5px;">
     </a>
 </div>
+</body>
 <br>
 
 <div align="center">
