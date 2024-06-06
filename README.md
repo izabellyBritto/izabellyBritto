@@ -52,7 +52,7 @@
 ### Contact Me:
 
 <p align="center">
-   <a href="mailto:izabellyjales@gmail.com" ">
+   <a href="email:izabellyjales@gmail.com" ">
     <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="gmail" style="border-radius: 50%; cursor: pointer;">
 </a>
 <a href="https://www.instagram.com/bebelzyss/" ">
