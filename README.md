@@ -44,25 +44,24 @@
     <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
-    </div>
+</div>
 <br>
 
 ---
 
 ### Contact Me:
 
-<p align="center">
-   <a href="email:izabellyjales@gmail.com" ">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="gmail" style="border-radius: 50%; cursor: pointer;">
-</a>
-<a href="https://www.instagram.com/bebelzyss/" ">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" style="border-radius: 50%; cursor: pointer;">
-</a>
-<a href="https://www.linkedin.com/in/izabelly-cristina-91a8852b7" ">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="border-radius: 50%; cursor: pointer;">
-</a>
-
-</p>
+<div align="center">
+    <a href="mailto:izabellyjales@gmail.com" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="gmail" style="border-radius: 50%; cursor: pointer; margin-right: 5px;">
+    </a>
+    <a href="https://www.instagram.com/bebelzyss/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" style="border-radius: 50%; cursor: pointer; margin-right: 5px;">
+    </a>
+    <a href="https://www.linkedin.com/in/izabelly-cristina-91a8852b7" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="border-radius: 50%; cursor: pointer; margin-right: 5px;">
+    </a>
+</div>
 <br>
 
 <div align="center">
