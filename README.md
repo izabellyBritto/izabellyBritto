@@ -52,9 +52,16 @@
 ### Contact Me:
 
 <p align="center">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="gmail" style="border-radius: 50%; cursor: pointer;" onclick="window.open('mailto:izabellyjales@gmail.com');">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" style="border-radius: 50%; cursor: pointer;" onclick="window.open('https://www.instagram.com/bebelzyss/');">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="border-radius: 50%; cursor: pointer;" onclick="window.open('https://www.linkedin.com/in/izabelly-cristina-91a8852b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app');">
+   <a href="mailto:izabellyjales@gmail.com" ">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="gmail" style="border-radius: 50%; cursor: pointer;">
+</a>
+<a href="https://www.instagram.com/bebelzyss/" ">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" style="border-radius: 50%; cursor: pointer;">
+</a>
+<a href="https://www.linkedin.com/in/izabelly-cristina-91a8852b7" ">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="border-radius: 50%; cursor: pointer;">
+</a>
+
 </p>
 <br>
 
