@@ -48,20 +48,6 @@
 <br>
 
 ---
-
-### Contact Me:
-
-<div align="center">
-    <a href="mailto:izabellyjales@gmail.com" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="gmail" style="border-radius: 50%; cursor: pointer; margin-right: 5px;">
-    </a>
-    <a href="https://www.instagram.com/bebelzyss/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram" style="border-radius: 50%; cursor: pointer; margin-right: 5px;">
-    </a>
-    <a href="https://www.linkedin.com/in/izabelly-cristina-91a8852b7" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="border-radius: 50%; cursor: pointer; margin-right: 5px;">
-    </a>
-</div>
 </body>
 <br>
 
@@ -70,6 +56,8 @@
 </div>
 
 ---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izabellyBritto&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=9370DB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" style="width: 100%;">
