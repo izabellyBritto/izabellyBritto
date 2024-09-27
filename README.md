@@ -57,7 +57,7 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izabellyBritto&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=9370DB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izabellyBritto&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=9370DB&area=true&hide_border=true)](https://github.com/izabellyBritto/github-readme-activity-graph)
 
 <div align="center">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" style="width: 100%;">
